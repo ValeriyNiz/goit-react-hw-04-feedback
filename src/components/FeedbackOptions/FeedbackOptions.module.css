@@ -1,0 +1,7 @@
+.voteBtn {
+  margin-right: 5px;
+}
+
+.voteBtn:last-child {
+  margin-right: 0;
+}
